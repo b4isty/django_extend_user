@@ -10,7 +10,7 @@ chardet==3.0.4
 cryptography==1.2.3
 curtsies==0.2.6
 defusedxml==0.4.1
-Django==1.11
+Django==1.11.29
 django-modeltranslation==0.12.2
 django-transaction-hooks==0.2
 django10-enumfield==1.4.1
