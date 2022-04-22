@@ -48,7 +48,7 @@ PyJWT==1.5.3
 pyodbc==3.0.7
 PyOpenGL==3.0.2
 pyOpenSSL==0.15.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyrex==0.9.8.5
 pysqlite==2.7.0
 python-openid==2.2.5
