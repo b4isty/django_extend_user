@@ -44,7 +44,7 @@ pyasn1==0.1.9
 pycrypto==2.6.1
 Pygments==2.1
 pygobject==3.20.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyodbc==3.0.7
 PyOpenGL==3.0.2
 pyOpenSSL==0.15.1
